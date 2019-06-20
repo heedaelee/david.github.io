@@ -1,8 +1,8 @@
 {
-  "name": "junhobaik-personal-web",
-  "description": "Junho Baik's devLog",
+  "name": "david-web",
+  "description": "david blog",
   "version": "1.0.0",
-  "author": "Junho Baik <junhobaik@gmail.com>",
+  "author": "david <adguy72@gmail.com>",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.6",
     "@fortawesome/free-regular-svg-icons": "^5.4.1",

@@ -1,15 +1,15 @@
 let config = {
-  title: `SITE TITLE`,
-  author: 'author',
-  description: "",
-  siteUrl: '',
+  title: `David Life`,
+  author: 'david',
+  description: "love you",
+  siteUrl: 'https://heedaelee.github.io/myweb-static/',
 
   // header config
   titleLogo: () => {
     return require('./src/images/profile.png');
   },
   titleLogoShow: true,
-  bio: './conifg.js 에서 설정을 수정해주세요',
+  bio: 'david 홈',
   bioShow: true,
 
   // addtional
