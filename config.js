@@ -2,7 +2,7 @@ let config = {
   title: `David Life`,
   author: 'david',
   description: "love you",
-  siteUrl: 'https://heedaelee.github.io/myweb-static/',
+  siteUrl: 'https://heedaelee.github.io',
 
   // header config
   titleLogo: () => {
