@@ -13,8 +13,8 @@ let config = {
   bioShow: true,
 
   // addtional
-  googleAnalyticsTrackingId: '',
-  disqusShortname: '',
+  googleAnalyticsTrackingId: 'UA-142691624-1',
+  disqusShortname: 'david',
 };
 
 /********************************************** */

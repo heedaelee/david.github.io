@@ -1,14 +1,12 @@
 import React, { Component } from 'react';
-
+import './Footer.scss';
 class Footer extends Component {
   render() {
     return (
       <footer id="footer">
         <div className="copyright">
           <span>
-            © <a href="mailto:junhobaik@gmail.com">Junho Baik</a> 2018, All
-            rights reserved. Powered by {` `}
-            <a href="https://www.gatsbyjs.org/">Gatsby</a>
+            <a href="mailto:adguy72@gmail.com">David : adguy72@gmail.com</a> 
           </span>
         </div>
         <div className="submenu" />

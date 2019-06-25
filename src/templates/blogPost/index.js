@@ -38,6 +38,9 @@ class BlogTemplate extends React.Component {
       identifier: id,
       title: siteTitle,
     };
+    console.log('disqus',config.disqusShortname);
+    console.log('bio',config.bio);
+    console.log('abc');
 
     const tagList = tags.map((v, i) => {
       return (
